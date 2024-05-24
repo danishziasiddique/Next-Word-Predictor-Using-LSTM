@@ -25,7 +25,7 @@ To run the FAQ chatbot script, you need:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/DSMP-2023-FAQ-Chatbot.git
+    git clone https://github.com/danishziasiddique/Next-Word-Predictor-Using-LSTM.git
     ```
 
 2. Navigate to the project directory:
